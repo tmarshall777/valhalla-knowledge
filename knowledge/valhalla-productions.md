@@ -132,3 +132,92 @@ Deliver "national-level" tournament experience—typically reserved for elite, h
 ### Geographic Reach
 - **Core States**: VA, TN, NC, SC, GA, WV, OH
 - **Expansion Zones**: KY, IN, PA
+
+---
+
+## 9. Website Content & Services
+
+### Website: valhallawrestling.com
+
+### 2026-27 Tournament Schedule
+| Event | Location | Date |
+|-------|----------|------|
+| Roanoke Brawl | VA | Nov 8, 2026 |
+| Tennessee Brawl | TN | Nov 14, 2026 |
+| Tennessee Brawl Duals | TN | Nov 15, 2026 |
+| Beckley Brawl | WV | Nov 29, 2026 |
+| State Line Brawl | TN | Dec 6, 2026 |
+| Dalton Brawl | GA | Dec 19, 2026 |
+| Bristol Brawl | TN | Jan 10, 2027 |
+| Twin City Brawl | NC | Jan 17, 2027 |
+| Bearcat Brawl | VA | Jan 24, 2027 |
+| Vol Brawl | TN | Jan 31, 2027 |
+
+### Tournament Management Services (Full-Service Offering)
+1. **Tournament Setup & Operations**
+   - Complete TrackWrestling setup (divisions, brackets, bout scheduling)
+   - Custom rules, weight classes, formats
+   - On-site coordination (clocks, tables, mats)
+
+2. **Equipment & Technology**
+   - Laptops, score clocks, extension cords, cables, backup systems
+   - On-site tech support for TrackWrestling
+   - Optional live streaming and social media updates
+
+3. **Staffing & Referee Coordination**
+   - Certified referee scheduling and payment
+   - Experienced table workers and weigh-in staff
+   - Pre-event training and event-day supervision
+
+4. **Marketing & Promotion**
+   - Event listing across Valhalla network and social media
+   - Access to contact list of hundreds of teams/coaches
+   - Digital flyers, social graphics, email promotions
+
+5. **Vendor & Awards Management**
+   - Medal, trophy, apparel vendor coordination
+   - Custom Viking-themed award design
+   - Concessions, merchandise, sponsor table setup
+
+6. **Fundraising Support**
+   - Flexible partnership models
+   - Keep tournament name and identity
+   - Clear cost breakdowns and shared revenue options
+   - Turnkey solution for schools/clubs
+
+### Virtual Weigh-In Service
+- **Fee**: $20
+- **Requirements**:
+  - Must weigh in at school/team facility with certified scale (no bathroom scales)
+  - Observed via Google Meet (need app downloaded)
+  - Must weigh in a singlet
+  - Max 4 wrestlers per appointment
+- **Contact**: tim@valhallawrestling.com for larger groups
+
+### FAQ (from website)
+- **Ages/Divisions**: Youth and middle school divisions; some events include high school when permitted
+- **Membership Required**: No — welcomes AAU, USA Wrestling, Nuway, other formats
+- **Session Length**: Typically under 3 hours
+- **Split Mats**: Never — full-size mats only
+- **Officials**: Certified for fair, professional experience
+- **Awards**: High-quality custom awards
+- **Contact**: tim@valhallawrestling.com
+
+### Event Location Regions
+Tennessee, Virginia, North Carolina, South Carolina, Georgia, Ohio, West Virginia
+
+---
+
+## 10. Brand Positioning
+
+### "Fastest Growing Youth Wrestling Series"
+- Serves 6+ states (Mid-Atlantic/Southeast)
+- Plans to expand to more states
+- 20+ years experience running tournaments
+
+### Core Values (from About page)
+1. Event starts on time — take great pride in scheduled starts
+2. Acceptable runtime — enough mats/officials/staff for efficient tournaments
+3. National-level experience — defined weights, boys/girls brackets, open registration, no split mats, 15-pt tech, full matches, TrackWrestling, certified officials, custom awards
+4. Latest technology and best facilities
+5. Be THE BEST wrestling tournament experience

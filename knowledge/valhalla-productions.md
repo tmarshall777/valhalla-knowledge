@@ -221,3 +221,35 @@ Tennessee, Virginia, North Carolina, South Carolina, Georgia, Ohio, West Virgini
 3. National-level experience — defined weights, boys/girls brackets, open registration, no split mats, 15-pt tech, full matches, TrackWrestling, certified officials, custom awards
 4. Latest technology and best facilities
 5. Be THE BEST wrestling tournament experience
+
+---
+
+## 11. Off-Season Revenue Strategy
+
+### Prioritized Ideas (Q2-Q3 2026)
+
+1. **Online Courses** (Build Out)
+   - "How to Run a Wrestling Tournament Like a Pro"
+   - TrackWrestling Masterclass
+   - Target: coaches, club admins, parents running events
+
+2. **Email List Monetization**
+   - Segment: Coaches vs Parents
+   - Coaches → consulting, bulk apparel, services
+   - Parents → event prep, gear, gift ideas
+
+3. **Affiliate Partnerships**
+   - Wrestling gear brands, supplements, travel
+   - Commission: 10-20%
+
+4. **Content Monetization** (Highest Priority)
+   - YouTube/TikTok: "Behind the Scenes" tournament series
+   - Expert-level tutorial content
+   - Content calendar + efficient creation workflow
+   - Patreon/membership for exclusive resources
+
+### Discarded Ideas
+- Off-season training events
+- Venue consulting (too niche)
+- TrackWrestling templates (not feasible)
+- Pre-season apparel drops (too far out)

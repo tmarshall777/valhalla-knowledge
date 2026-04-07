@@ -139,6 +139,8 @@
 - **Video Creation:** Canva Pro + CapCut (or HeyGen for AI)
 - **Scheduling:** Meta Business Suite (free)
 - **Social:** Facebook (@valhallawrestlingseries), Instagram (@valhalla_wrestling_series)
+- **Course/Digital Product Hosting:** Payhip (chosen for PDF sales, 5% fee, Mailchimp integration)
+- **Course Platform:** Not Thinkific (no longer free) — using Payhip instead
 
 ---
 
